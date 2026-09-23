@@ -1,2 +1,2 @@
 # Moyenne-Grp-B
-Calculs des évaluations sur l'année
+Calculs des moyennes des UE sur une année
